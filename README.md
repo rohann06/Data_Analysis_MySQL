@@ -1,2 +1,2 @@
 # Data_Analysis_MySQL
-Data Analysis Of  By MyAQL 
+Data Analysis By MyAQL 
